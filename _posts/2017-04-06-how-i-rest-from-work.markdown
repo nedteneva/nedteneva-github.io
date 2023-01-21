@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: main
 title: Bio
 date: 
 #img: i-rest.jpg # Add image post (optional)
