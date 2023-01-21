@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bio
-date: 2017-09-12 13:32:20 +0300
+date: 
 #img: i-rest.jpg # Add image post (optional)
 #fig-caption: # Add figcaption (optional)
 
