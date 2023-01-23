@@ -2,7 +2,7 @@
 layout: post
 title: Bio
 date: 12/12/2022
-img: mac.jpg # Add image post (optional)
+img: headshot_small2.jpg # Add image post (optional)
 #fig-caption: # Add figcaption (optional)
 
 ---
