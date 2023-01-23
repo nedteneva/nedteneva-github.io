@@ -7,6 +7,9 @@ img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 
 ---
-My publications can be found on [Google Scholar] [scholar].
+My work has been published at venues such as the International Conference of Machine Learning (ICML), the Society for Artificial Intelligence
+and Statistics (AISTATS) and the Association of Computational Linguistics (ACL).
+
+For full list of my publications check [Google Scholar] [scholar].
 
 [scholar]: https://scholar.google.com/citations?user=sGjcr18AAAAJ&hl=en
