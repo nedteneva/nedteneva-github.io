@@ -14,7 +14,7 @@ layout: default
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
-      <h3 class="contact-title">Contact me</h3>
+      <h3 class="contact-title">Contact</h3>
       <ul>
         {% if site.social-linkedin %}
           <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.social-linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -27,6 +27,12 @@ layout: default
         {% else %}
           <li><a href="https://twitter.com/nedteneva" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
+          
+        {% if site.social-twitter %}
+          <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-google-scholar" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://twitter.com/nedteneva" target="_blank"><i class="fa fa-google-scholar" aria-hidden="true"></i></a></li>
+        {% endif %} 
 
       </ul>
     </section> <!-- End Section Contact -->
