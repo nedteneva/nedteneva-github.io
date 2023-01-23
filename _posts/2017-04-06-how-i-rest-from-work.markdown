@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bio
-date: 12/12/2022
+date: 2023-01-01 13:32:20 +0300
 img: headshot_small.jpg # Add image post (optional)
 #fig-caption: # Add figcaption (optional)
 
